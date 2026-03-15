@@ -8,6 +8,9 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
 
+When I feel the hint is backward, it didn't know what is the correct answer.
+The score is off, the final score doesn't match with score in develop debug info.
+The new game button doesn't work as it intended, when I click it, I can enter a new input but when I click submit guess, it didn't go through. And when I type the number out of range, it stills let me play.
 ---
 
 ## 2. How did you use AI as a teammate?
