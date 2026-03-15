@@ -32,6 +32,10 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+![Winning Game](matching_score.png)
+![Out of Range](out_of_range_error.png)
+
+
 
 ## 🚀 Stretch Features
 
